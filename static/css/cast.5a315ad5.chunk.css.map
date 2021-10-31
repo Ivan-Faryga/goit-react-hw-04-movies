@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/MovieDetailsPage/MovieCast.module.css"],"names":[],"mappings":"AAAA,uBACE,eAAgB,CAChB,YAAa,CACb,cAAe,CACf,6BACF","file":"cast.5a315ad5.chunk.css","sourcesContent":[".list {\r\n  list-style: none;\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  justify-content: space-between;\r\n}\r\n"]}
