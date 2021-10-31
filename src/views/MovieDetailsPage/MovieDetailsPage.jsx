@@ -49,6 +49,7 @@ const MovieDetailsPage = () => {
         <img src={`${BASE_URL}${film.backdrop_path}`} alt={film.title} />
         <div>
           <h1 className={s.title}>{film.title}</h1>
+          <p className={s.rating}>rating: {film.vote_average}</p>
           <p className={s.textInfo}>{film.overview}</p>
         </div>
 
